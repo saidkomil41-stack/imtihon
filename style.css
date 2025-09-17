@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.btn1{
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    margin-left: 114px;
+    width: 189px;
+height: 47px;
+box-sizing: border-box;
+border: 2px solid rgba(222, 46, 84, 1);
+border-radius: 8px;
+background: rgba(255, 255, 255, 1);
+align-items: center;
+ color: rgba(222, 46, 84, 1);
+ transition: 0.3s ease-in-out;
+}
+.btn1:hover{
+    background-color: blue;
+    color: white;
+}
+.name{
+    padding-top: 24px;
+  color: rgba(34, 34, 34, 1);
+
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: left;
+transition: 0.3s ease-in-out;
+}
+.name:hover{
+    color: rgba(222, 46, 84, 1);
+}
+.logo{
+    display: flex;
+    gap: 16px;
+}
+.wrapper{
+    display: flex;
+    gap: 114px;
+    padding-top: 32px;
+    padding-left: 174px;
+    padding-right: 174px;
+}
+.list{
+    display: flex;
+    gap: 32px;
+    padding-top: 32px;
+}
+.link{
+    color: rgba(34, 34, 34, 1);
+
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+transition: 0.3s ease-in-out;
+}
+.link:hover{
+    color: rgba(222, 46, 84, 1);
+}
+.wrap{
+    margin-top: 35px;
+    background-image: url(/images/image\ 4\ \(2\).png);
+    background-size: cover;
+    width: 1530px;
+    height: 533px;
+    display: flex;
+}
+.text{
+    padding-top: 137px;
+    padding-left: 177px;
+   
+}
+.title{
+    color: rgba(255, 255, 255, 1);
+
+font-family: Open Sans ;
+font-size: 36px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 1px;
+text-align: left;
+padding-bottom: 48px;
+}
+.btn2{
+    color: rgba(255, 255, 255, 1);
+
+font-family: Open Sans ;
+font-size: 15px;
+padding: 10px;
+
+line-height: 150%;
+letter-spacing: 1px;
+text-align: left;
+font-weight: 700;
+border-radius: 8px;
+background: rgba(222, 46, 84, 0.8);
+width: 189px;
+height: 47px;
+}
+h1{
+   
+
+font-family: Open Sans;
+font-size: 36px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+text-align: center;
+padding-top: 65px;
+padding-bottom: 30px;
+
+}
+.rasm{
+    display: flex;
+    padding-left: 288px;
+    padding-bottom: 80px;
+}
+.joma{
+    padding-right: 64px;
+}
+.hij{
+    padding-top: 34px;
+    padding-left: 64px;
+    color: rgba(34, 34, 34, 1);
+
+font-family: Open Sans ;
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+text-align: left;
+}
+.tekst{
+    padding-left: 64px;
+    padding-top: 24px;
+    color: rgba(68, 68, 68, 1);
+
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 0px;
+text-align: left;
+padding-right: 288px;
+}
+.rasm22{
+    display: flex;
+    padding-bottom: 253px;
+}
+.matn{
+    padding-left: 288px;
+    padding-right: 64px;
+}
+.nnf{
+    padding-right: 288px;
+}
+.tekst2{
+    color: rgba(68, 68, 68, 1);
+
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 0px;
+text-align: left;
+}
+.matn1{
+    color: rgba(34, 34, 34, 1);
+
+font-family: Open Sans Condensed;
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+text-align: left;
+padding-bottom: 24px;
+}
+.nom{
+    color: rgba(0, 0, 0, 1);
+padding-top: 64px;
+font-family: Inter;
+font-size: 64px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: 0px;
+text-align: center;
+}
+.wrap3{
+    background: rgba(14, 180, 193, 1);
+}
+iframe{
+    width: 713px;
+height: 331px;
+padding-left: 156px;
+padding-right: 10px;
+padding-bottom: 100px;
+margin-top: 111px;
+
+}
+.ora{
+    display: flex;
+}
+.gmail{
+   
+margin-top: 60px;
+
+}
+input{
+    width: 540px;
+    height: 40px;
+    box-sizing: border-box;
+border: 1px solid rgba(94, 84, 164, 1);
+border-radius: 5px;
+background: rgba(255, 255, 255, 1);
+padding: 20px;
+}
+.btn4{
+    width: 540px;
+height: 39.11px;
+border-radius: 5px;
+box-shadow: inset 0px -4px 0px 0px rgba(0, 0, 0, 0.09);
+background: rgba(56, 204, 139, 1);
+}
+footer{
+    background-color: black;
+    padding-bottom: 20px;
+}
+.namee{
+    color: white;
+       transition: 0.3s ease-in-out;
+       padding-top: 25px;
+}
+.linkw{
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+.linkw:hover{
+    color: rgba(222, 46, 84, 1);
+}
+.namee:hover{
+     color: rgba(222, 46, 84, 1);
+}
