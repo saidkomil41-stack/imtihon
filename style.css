@@ -72,7 +72,7 @@ transition: 0.3s ease-in-out;
 }
 .wrap{
     margin-top: 35px;
-    background-image: url(/images/image\ 4\ \(2\).png);
+    background-image: url(./images/image\ 4\ \(2\).png);
     background-size: cover;
     width: 1530px;
     height: 533px;
